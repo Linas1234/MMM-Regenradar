@@ -8,6 +8,7 @@ This module will show a map with the weather data provided by [Morgenwirdes](htt
 
 ## Installation
 1. Navigate to your MagicMirror's modules folder, and run the following command: 
+   
    `git clone https://github.com/Linas1234/MMM-Regenradar.git`
 3. Add the module and a valid configuration to your `config/config.js` file
 
@@ -56,4 +57,15 @@ var config = {
 
 ## Screenshot
 
+zoomlvl: `4`
+
+![zoomlvl 4](https://user-images.githubusercontent.com/65075231/126204187-ef23927a-9b58-4e48-baff-5b95495a442a.JPG)
+
+
+
+
+whole germany (zoomlvl: `1`): 
+
+![zoomlvl 1](https://user-images.githubusercontent.com/65075231/126203831-7fe144e3-9bf1-4c4f-8e0a-6c7ea29ded66.JPG)
+ 
 
