@@ -39,7 +39,7 @@ Module.register("MMM-Regenradar", {
 	  var getTimeStamp = new Date();
 	 
 	  image.classList.add = "radar";
-	  image.src = 'https://morgenwirdes.de/api/v3/gif4.php?plz=' + this.config.plz + '&delay=' + this.config.delay + '&type=' + this.config.type + '&zoomlvl=' + this.config.zoomlvl + '&bar=' + this.config.bar + '&map=' + this.config.map + '&textcol=' + this.config.textcol + '&bgcol=' + this.config.bgcol + '?seed=' + getTimeStamp;
+	  image.src = 'https://morgenwirdes.de/api/v3/gif6.php?plz=' + this.config.plz + '&delay=' + this.config.delay + '&type=' + this.config.type + '&zoomlvl=' + this.config.zoomlvl + '&bar=' + this.config.bar + '&map=' + this.config.map + '&textcol=' + this.config.textcol + '&bgcol=' + this.config.bgcol + '?seed=' + getTimeStamp;
 		
 	  image.style.height = this.config.height;
 	  image.style.width = this.config.width;
