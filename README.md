@@ -2,7 +2,7 @@
 
 This is a module for [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
-This module will show a map with the weather data provided by [Morgenwirdes](https://morgenwirdes.de/).
+This module will show a map as a gif with the weather data provided by [Morgenwirdes](https://morgenwirdes.de/).
 
 **Note:** It only work for locations in Germany.
 
